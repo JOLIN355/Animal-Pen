@@ -2,6 +2,7 @@ body {
   background-color: rgb(50, 99, 205);
   color: black;
 }
+
 nav{
   background-color: rgb(255, 255, 255);
   padding: 10px;
@@ -9,7 +10,11 @@ nav{
   font-size: larger;
   word-spacing: 40px;
 }
+
 li {
-  list-style-type: none;
   font-size: 20px;
+}
+
+p {
+  font-size: 18px;
 }
